@@ -18,12 +18,12 @@ Focused on **Trustworthy AI**, **Explainable AI (XAI)**, and **Real-World AI Dep
 
 ## 🎯 Focus Areas
 
-| Domain | Core Focus |
+| Domain | Expertise |
 |---|---|
-| **AI/ML** | Trustworthy AI, Explainable AI (XAI), Fraud Detection, Predictive Analytics |
-| **Engineering** | FastAPI, Firebase, Flutter, React, Next.js, Python, Java, TypeScript, Selenium |
-| **Specialization** | Fraud Detection Platforms, Business Automation, QA Automation, AI SaaS |
-| **Deployment** | Hugging Face, Cloud Run, Firebase Hosting, containerized systems |
+| **AI / ML** | Trustworthy AI · Explainable AI (XAI) · Fraud Detection · Predictive Analytics |
+| **Engineering** | FastAPI · Firebase · Flutter · React · Next.js · Python · Java · TypeScript · Selenium |
+| **Specialization** | Fraud Detection Platforms · Business Automation · QA Automation · AI SaaS |
+| **Deployment** | Hugging Face · Cloud Run · Firebase Hosting · Containerized Systems |
 
 ---
 
