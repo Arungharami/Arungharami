@@ -129,7 +129,7 @@ Focused on **Trustworthy AI**, **Explainable AI (XAI)**, and **Real-World AI Dep
 
 | Channel | Link |
 |---|---|
-| **Email** | [arun@lead-ai.us](mailto:arun@lead-ai.us) |
+| **Email** | [arun@lead-ai.us](mailto:arun_w@proton.me) |
 | **Website** | [lead-ai.us](https://www.lead-ai.us) |
 | **Hugging Face** | [@arun-gharami](https://huggingface.co/arun-gharami) |
 | **Lead.AI Labs** | [lead-ai-labs](https://huggingface.co/lead-ai-labs) |
