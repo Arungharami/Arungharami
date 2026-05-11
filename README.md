@@ -8,7 +8,7 @@
 [![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-FFD21E?style=flat-square)](https://huggingface.co/arun-gharami)
 [![Lead.AI Labs](https://img.shields.io/badge/Lead.AI-Labs-111827?style=flat-square)](https://huggingface.co/lead-ai-labs)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=uy4i5soAAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Email-arun@lead--ai.us-EA4335?style=flat-square&logo=gmail)](mailto:arun@lead-ai.us)
+[![Email](https://img.shields.io/badge/Email-arun@lead--ai.us-EA4335?style=flat-square&logo=gmail)](mailto:arun_w@proton.me)
 
 Focused on **Trustworthy AI**, **Explainable AI (XAI)**, and **Real-World AI Deployment**
 
