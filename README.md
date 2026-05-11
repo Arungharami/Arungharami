@@ -8,7 +8,7 @@
 [![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-FFD21E?style=flat-square)](https://huggingface.co/arun-gharami)
 [![Lead.AI Labs](https://img.shields.io/badge/Lead.AI-Labs-111827?style=flat-square)](https://huggingface.co/lead-ai-labs)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=uy4i5soAAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Email-arun@lead--ai.us-EA4335?style=flat-square&logo=gmail)](mailto:arun_w@proton.me)
+[![Email](https://img.shields.io/badge/Email-arun_w@proton.me-EA4335?style=flat-square&logo=gmail)](mailto:arun_w@proton.me)
 
 Focused on **Trustworthy AI**, **Explainable AI (XAI)**, and **Real-World AI Deployment**
 
@@ -129,7 +129,7 @@ Focused on **Trustworthy AI**, **Explainable AI (XAI)**, and **Real-World AI Dep
 
 | Channel | Link |
 |---|---|
-| **Email** | [arun@lead-ai.us](mailto:arun_w@proton.me) |
+| **Email** | [arun_w@proton.me](mailto:arun_w@proton.me) |
 | **Website** | [lead-ai.us](https://www.lead-ai.us) |
 | **Hugging Face** | [@arun-gharami](https://huggingface.co/arun-gharami) |
 | **Lead.AI Labs** | [lead-ai-labs](https://huggingface.co/lead-ai-labs) |
