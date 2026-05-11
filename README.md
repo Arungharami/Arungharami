@@ -18,7 +18,7 @@ Focused on **Trustworthy AI**, **Explainable AI (XAI)**, and **Real-World AI Dep
 
 ## 🎯 Focus Areas
 
-| Domain | Expertise |
+| Domain | Focus |
 |---|---|
 | **AI/ML** | Trustworthy AI, Explainable AI (XAI), Fraud Detection, Predictive Analytics |
 | **Engineering** | FastAPI, Firebase, Flutter, React, Next.js, Python, Java, TypeScript, Selenium |
