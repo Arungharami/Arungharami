@@ -20,6 +20,24 @@ A guide to the implementation, supporting materials and next deliverables across
 | [FleetDesk](projects/FleetDesk.md) | Single-owner rental operations from two cars to a larger fleet. | Operational pilot with authenticated SQLite server and separate browser-only static demo. |
 | [DailyOps](projects/dailyops-ai-agent.md) | Mobile planning for classes, research and work. | Browser-local calendar prototype with rule-based extraction; no cross-device calendar sync. |
 
+## Active delivery trackers
+
+These open coordination issues collect the 33 proposed work packages, materials and acceptance criteria. They do not imply board placement or completed implementation.
+
+| Project | Tracking |
+|---|---|
+| Drift-Robust TinyML | [Open tracking issue](https://github.com/Arungharami/Arungharami/issues/4) |
+| DriftCVE-NLP | [Open tracking issue](https://github.com/Arungharami/Arungharami/issues/5) |
+| Biomedical Hybrid IR | [Open tracking issue](https://github.com/Arungharami/Arungharami/issues/6) |
+| DriftGuard-IoT | [Open tracking issue](https://github.com/Arungharami/Arungharami/issues/7) |
+| Customer Behavior Research — Part 2 | [Open tracking issue](https://github.com/Arungharami/Arungharami/issues/8) |
+| Lead.AI Product Platform | [Open tracking issue](https://github.com/Arungharami/Arungharami/issues/9) |
+| Lead.AI Labs Fraud Benchmark | [Open tracking issue](https://github.com/Arungharami/Arungharami/issues/10) |
+| SitaRam | [Open tracking issue](https://github.com/Arungharami/Arungharami/issues/11) |
+| Working Woman Report | [Open tracking issue](https://github.com/Arungharami/Arungharami/issues/12) |
+| FleetDesk | [Open tracking issue](https://github.com/Arungharami/Arungharami/issues/13) |
+| DailyOps | [Open tracking issue](https://github.com/Arungharami/Arungharami/issues/14) |
+
 ## How delivery is tracked
 
 P0 addresses trust, data integrity or the core working flow. P1 establishes the next useful validated deliverable. P2 broadens evidence or prepares integration and release. A priority is not a deadline.
