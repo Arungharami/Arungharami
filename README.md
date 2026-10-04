@@ -16,6 +16,12 @@ I am pursuing a PhD in Computer Engineering at **Florida Atlantic University**, 
 
 My research connects **distribution shift, explainability, and resource-aware machine learning**. I build reproducible experiment pipelines and interfaces that make their evidence accessible. My applied engineering work spans AI business automation, web and mobile applications, and software testing.
 
+## Project navigator
+
+[**Explore the research and product portfolio →**](portfolio/README.md)
+
+Browse 11 documented projects, supporting materials, and prioritized roadmaps with clear acceptance criteria. Implementation and evidence status remain visible alongside planned work.
+
 ## Selected research
 
 | Project | Research question and implementation | Current evidence |
@@ -38,6 +44,8 @@ Portals communicate experiment artifacts and project status; deployment alone do
 | **[Lead.AI Fraud Benchmark](https://github.com/Arungharami/lead-ai-labs-hf-upgrade)** | Reproducible tabular training, held-out evaluation, deterministic reasoning tasks, artifact checksums, and controlled publishing workflows. | Controlled synthetic benchmark; results do not establish real-world fraud performance. |
 | **[SitaRam](https://github.com/Arungharami/SitaRam)** | Multilingual Flutter application with corpus provenance, content validation, and evidence-grounded assistance. | Application and release workflows; source coverage remains incomplete. |
 | **[Working Woman Report](https://github.com/Arungharami/workingwomanreport.com)** | Next.js editorial platform connecting a canonical weekly story with publishing, archive, and distribution workflows. | Rebuild with content schemas and provider adapter foundations. |
+
+**Operational prototypes:** [FleetDesk](https://github.com/Arungharami/FleetDesk) — rental operations with a persistent owner server and separate static demo; [DailyOps](https://github.com/Arungharami/dailyops-ai-agent) — a browser-local calendar prototype with rule-based extraction. Their [roadmaps](portfolio/README.md) describe the next delivery gates.
 
 Additional work: [payment management](https://github.com/Arungharami/Payment-Management-app), [AI companion interfaces](https://github.com/Arungharami/keylo-ai-companion), [construction lead management](https://github.com/Arungharami/Division-Construction), and [JavaScript learning tools](https://github.com/Arungharami/Java_script_0-hero).
 
