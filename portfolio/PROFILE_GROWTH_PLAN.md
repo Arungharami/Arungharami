@@ -12,6 +12,8 @@ This plan turns the portfolio into an accessible entry point for researchers, de
 | Detailed project evidence | Retained | Full research status and toolkit remain in the expandable profile section and project navigator. |
 | Profile pins | Pending | Check current pins before changing them; suggested selection below. |
 | Flagship quick-start verification | Pending | Follow the owning project's existing roadmap and engineering review. |
+| Community entry points | Draft PRs prepared | Ten project-specific README and contributor-guide changes are tracked in PUBLIC_REPOSITORY_AUDIT.md. |
+| Offline IR example | Executed locally; draft PR | The educational TF-IDF example ran and two existing missing-query regression tests passed. Full NFCorpus reproduction is not verified by these checks. |
 | Public demo recordings | Pending | Record verified behavior after checking current deployment and setup. |
 | Outreach and traffic baseline | Pending | Record existing traffic before sharing a release. No outreach has been sent by this plan. |
 
@@ -23,10 +25,10 @@ This plan turns the portfolio into an accessible entry point for researchers, de
 | DriftCVE-NLP | Temporal NLP and cybersecurity research | Default-branch setup works; dataset revision and results provenance are clear. |
 | Drift-Robust-TinyML-Research-System | Sensor drift and embedded ML | Host-side reproduction is verified; unavailable physical measurements remain explicit. |
 | Lead-AI-product | Applied AI and business workflows | At least one complete application workflow is demonstrated and tested. |
-| FleetDesk | Practical operations software | Persistent owner server and browser demonstration are distinguished. |
-| dailyops-ai-agent | Planning and automation interfaces | Current browser-local behavior is reproducible and limitations are clear. |
+| Java_script_0-hero | Interactive learning software | A lesson-to-challenge-to-dashboard flow is verified; local progress behavior is clear. |
+| SitaRam | Multilingual source-grounded study | App setup is verified and content claims match the generated coverage report. |
 
-These are recommendations, not confirmation that pins have been changed. If an application does not meet its condition, use a stronger verified repository until it does.
+Visibility was checked: all six suggested repositories above are public. FleetDesk and DailyOps currently require collaborator access and are excluded from public pin recommendations. These are recommendations, not confirmation that pins have been changed. If an application does not meet its condition, use a stronger verified repository until it does.
 
 ## Work sequence
 
