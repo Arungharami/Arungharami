@@ -4,6 +4,10 @@ A guide to the implementation, supporting materials and next deliverables across
 
 **Reviewed:** October 4, 2026. Status descriptions summarize repository documentation; they are not independent certification or newly executed validation.
 
+## Profile and community development
+
+[Follow the profile and community growth plan](PROFILE_GROWTH_PLAN.md) for the current profile changes, proposed pins, flagship reproduction work, and weekly reach measurements.
+
 ## Explore the work
 
 | Project | Focus | Foundation and next work |
