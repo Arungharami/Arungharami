@@ -8,6 +8,8 @@ A guide to the implementation, supporting materials and next deliverables across
 
 [Follow the profile and community growth plan](PROFILE_GROWTH_PLAN.md) for the current profile changes, proposed pins, flagship reproduction work, and weekly reach measurements.
 
+[Browse all 46 public repositories and prepared changes](PUBLIC_REPOSITORY_AUDIT.md). Private-source project pages below are portfolio descriptions; their code requires collaborator access.
+
 ## Explore the work
 
 | Project | Focus | Foundation and next work |
@@ -21,8 +23,8 @@ A guide to the implementation, supporting materials and next deliverables across
 | [Lead.AI Labs Fraud Benchmark](projects/lead-ai-labs-hf-upgrade.md) | Reproducible tabular evaluation and controlled model/benchmark publishing. | Controlled synthetic reference benchmark; existing Gradio demonstration is rule based. |
 | [SitaRam](projects/SitaRam.md) | Source-grounded Ramayana study with multilingual reading and assistance. | Flutter application and corpus gates exist; corpus coverage remains incomplete. |
 | [Working Woman Report](projects/workingwomanreport.com.md) | Canonical weekly reporting with coordinated publishing and distribution. | Editorial rebuild with schemas and provider adapter foundations. |
-| [FleetDesk](projects/FleetDesk.md) | Single-owner rental operations from two cars to a larger fleet. | Operational pilot with authenticated SQLite server and separate browser-only static demo. |
-| [DailyOps](projects/dailyops-ai-agent.md) | Mobile planning for classes, research and work. | Browser-local calendar prototype with rule-based extraction; no cross-device calendar sync. |
+| [FleetDesk — source access restricted](projects/FleetDesk.md) | Single-owner rental operations from two cars to a larger fleet. | Operational pilot with authenticated SQLite server and separate browser-only static demo. |
+| [DailyOps — source access restricted](projects/dailyops-ai-agent.md) | Mobile planning for classes, research and work. | Browser-local calendar prototype with rule-based extraction; no cross-device calendar sync. |
 
 ## Active delivery trackers
 
