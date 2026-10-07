@@ -25,8 +25,8 @@ Explore the code, inspect the recorded results, or help improve a project.
 ## Practical software
 
 - **[Lead.AI](https://github.com/Arungharami/Lead-AI-product)** — lead capture and business automation across web and mobile; an evolving MVP.
-- **[FleetDesk](https://github.com/Arungharami/FleetDesk)** — rental operations with a persistent owner server and a separate static demonstration.
-- **[DailyOps](https://github.com/Arungharami/dailyops-ai-agent)** — a browser-local planning prototype for classes, research, and work.
+- **[JavaScript 0 → Hero](https://github.com/Arungharami/Java_script_0-hero)** — interactive lessons, coding practice, and device-local learning progress.
+- **[SitaRam](https://github.com/Arungharami/SitaRam)** — multilingual study workflows with source provenance and corpus approval gates.
 
 [**Explore the full portfolio, materials, and project roadmaps →**](portfolio/README.md)
 
@@ -39,7 +39,7 @@ I welcome developers, researchers, and people who can help test practical workfl
 | Biomedical search | Reproduce a baseline, investigate a failed query, or improve setup instructions. | [IR issues](https://github.com/Arungharami/biomedical-hybrid-ir/issues) |
 | Cybersecurity NLP | Review preprocessing, reproduce temporal evaluation, or report dataset problems. | [DriftCVE issues](https://github.com/Arungharami/DriftCVE-NLP/issues) |
 | Embedded ML | Review export workflows or discuss real-board validation and instrumentation. | [TinyML issues](https://github.com/Arungharami/Drift-Robust-TinyML-Research-System/issues) |
-| Useful applications | Try a workflow and report its steps, expected behavior, and actual outcome. | [FleetDesk issues](https://github.com/Arungharami/FleetDesk/issues) |
+| Interactive learning | Try a lesson or challenge and report its steps, expected behavior, and actual outcome. | [JavaScript learning issues](https://github.com/Arungharami/Java_script_0-hero/issues) |
 
 Read the project's setup and contribution guidance, check existing issues, and propose a focused change before beginning a large implementation. Reproduction reports are welcome even when your results differ.
 
@@ -85,7 +85,7 @@ Portals communicate experiment artifacts and project status; deployment alone do
 | **[SitaRam](https://github.com/Arungharami/SitaRam)** | Multilingual Flutter application with corpus provenance, content validation, and evidence-grounded assistance. | Application and release workflows; source coverage remains incomplete. |
 | **[Working Woman Report](https://github.com/Arungharami/workingwomanreport.com)** | Next.js editorial platform connecting a canonical weekly story with publishing, archive, and distribution workflows. | Rebuild with content schemas and provider adapter foundations. |
 
-**Operational prototypes:** [FleetDesk](https://github.com/Arungharami/FleetDesk) — rental operations with a persistent owner server and separate static demo; [DailyOps](https://github.com/Arungharami/dailyops-ai-agent) — a browser-local calendar prototype with rule-based extraction. Their [roadmaps](portfolio/README.md) describe the next delivery gates.
+**Additional operational prototypes:** FleetDesk and DailyOps are documented in the [portfolio roadmaps](portfolio/README.md). Their source repositories currently require collaborator access.
 
 Additional work: [payment management](https://github.com/Arungharami/Payment-Management-app), [AI companion interfaces](https://github.com/Arungharami/keylo-ai-companion), [construction lead management](https://github.com/Arungharami/Division-Construction), and [JavaScript learning tools](https://github.com/Arungharami/Java_script_0-hero).
 
