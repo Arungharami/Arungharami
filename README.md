@@ -2,25 +2,65 @@
 
 # Arun Kumar Gharami
 
-**PhD Student in Computer Engineering · Applied AI Researcher · Software Engineer**
+**Applied AI Researcher · AI Engineer · Software Engineer**
 
-Trustworthy AI under changing conditions — from sensor drift and cybersecurity language to biomedical search and practical business systems.
+I build practical AI systems, research-driven software, and automation tools that connect machine learning, trustworthy evaluation, and real-world business impact.
 
-[Portfolio](https://arungharami.info) · [Google Scholar](https://scholar.google.com/citations?user=uy4i5soAAAAJ&hl=en) · [Hugging Face](https://huggingface.co/arun-gharami) · [Email](mailto:arun_w@proton.me)
+[Portfolio](https://arungharami.info) · [Google Scholar](https://scholar.google.com/citations?user=uy4i5soAAAAJ&hl=en) · [Hugging Face](https://huggingface.co/arun-gharami) · [Contact](mailto:arun_w@proton.me)
 
 </div>
+
+## Start here
+
+Explore the code, inspect the recorded results, or help improve a project.
+
+| Project | What you can explore | Current boundary |
+|---|---|---|
+| **[Biomedical Hybrid IR](https://github.com/Arungharami/biomedical-hybrid-ir)** | Compare lexical, dense, hybrid, and reranked biomedical search on NFCorpus. [Results](https://github.com/Arungharami/biomedical-hybrid-ir/blob/main/results/tables/main_results.md) · [Reproduce](https://github.com/Arungharami/biomedical-hybrid-ir/blob/main/docs/reproducibility.md) | Recorded six-method study; portal displays exported results rather than live model inference. |
+| **[DriftCVE-NLP](https://github.com/Arungharami/DriftCVE-NLP)** | Investigate vulnerability classification and retrieval as language changes over time. [Dataset](https://huggingface.co/datasets/arun-gharami/driftcve-cwe) · [Reproduce](https://github.com/Arungharami/DriftCVE-NLP/blob/research/full-platform/REPRODUCIBILITY.md) | Recorded chronological experiments; live inference is pending. |
+| **[Drift-Robust TinyML](https://github.com/Arungharami/Drift-Robust-TinyML-Research-System)** | Study electronic-nose sensor drift, compact models, and resource-aware explanations. [Protocol](https://github.com/Arungharami/Drift-Robust-TinyML-Research-System/blob/main/docs/RESEARCH_PROTOCOL.md) · [Reproduce](https://github.com/Arungharami/Drift-Robust-TinyML-Research-System/blob/main/docs/REPRODUCIBILITY.md) | Host-side experiments and numerical equivalence are documented; physical MCU validation remains blocked. |
+
+**Research portals:** [Biomedical IR](https://biomedical-hybrid-ir.vercel.app) · [DriftCVE-NLP](https://driftcve-nlp.vercel.app) · [TinyML](https://drift-robust-tinyml-research.vercel.app)
+
+## Practical software
+
+- **[Lead.AI](https://github.com/Arungharami/Lead-AI-product)** — lead capture and business automation across web and mobile; an evolving MVP.
+- **[FleetDesk](https://github.com/Arungharami/FleetDesk)** — rental operations with a persistent owner server and a separate static demonstration.
+- **[DailyOps](https://github.com/Arungharami/dailyops-ai-agent)** — a browser-local planning prototype for classes, research, and work.
+
+[**Explore the full portfolio, materials, and project roadmaps →**](portfolio/README.md)
+
+## Build with me
+
+I welcome developers, researchers, and people who can help test practical workflows.
+
+| Interested in… | A useful way to participate | Where to begin |
+|---|---|---|
+| Biomedical search | Reproduce a baseline, investigate a failed query, or improve setup instructions. | [IR issues](https://github.com/Arungharami/biomedical-hybrid-ir/issues) |
+| Cybersecurity NLP | Review preprocessing, reproduce temporal evaluation, or report dataset problems. | [DriftCVE issues](https://github.com/Arungharami/DriftCVE-NLP/issues) |
+| Embedded ML | Review export workflows or discuss real-board validation and instrumentation. | [TinyML issues](https://github.com/Arungharami/Drift-Robust-TinyML-Research-System/issues) |
+| Useful applications | Try a workflow and report its steps, expected behavior, and actual outcome. | [FleetDesk issues](https://github.com/Arungharami/FleetDesk/issues) |
+
+Read the project's setup and contribution guidance, check existing issues, and propose a focused change before beginning a large implementation. Reproduction reports are welcome even when your results differ.
+
+For research collaboration or engineering opportunities, [email me](mailto:arun_w@proton.me).
+
+## How I work
+
+- **Reproducible experiments:** explicit data provenance, versioned configurations, and saved artifacts.
+- **Careful evaluation:** report measured findings, limitations, and pending work with their supporting evidence.
+- **Practical delivery:** documented setup, automated checks, and complete user workflows.
+
+**Core tools:** Python · scikit-learn · Hugging Face · TypeScript · React / Next.js · FastAPI · Flutter · GitHub Actions
+
+<details>
+<summary><strong>Research background, full project evidence, and technical toolkit</strong></summary>
 
 ## About
 
 I am pursuing a PhD in Computer Engineering at **Florida Atlantic University**, in the Department of Electrical Engineering and Computer Science. I hold an MS in Computer Science with an AI/ML focus from Westcliff University.
 
 My research connects **distribution shift, explainability, and resource-aware machine learning**. I build reproducible experiment pipelines and interfaces that make their evidence accessible. My applied engineering work spans AI business automation, web and mobile applications, and software testing.
-
-## Project navigator
-
-[**Explore the research and product portfolio →**](portfolio/README.md)
-
-Browse 11 documented projects, supporting materials, and prioritized roadmaps with clear acceptance criteria. Implementation and evidence status remain visible alongside planned work.
 
 ## Selected research
 
@@ -66,14 +106,11 @@ Additional work: [payment management](https://github.com/Arungharami/Payment-Man
 | Testing and delivery | pytest, Selenium, Playwright, GitHub Actions, Git, Vercel |
 | Embedded research | C/FP32 export, numerical equivalence, resource-aware XAI; nRF52840 hardware validation planned |
 
-## Collaboration
 
-I welcome research conversations and engineering opportunities in trustworthy AI, sensor drift, TinyML, NLP, information retrieval, IoT security, and practical AI systems.
-
-**Contact:** [arun_w@proton.me](mailto:arun_w@proton.me)  
-**Research:** [Google Scholar](https://scholar.google.com/citations?user=uy4i5soAAAAJ&hl=en)  
-**Models and datasets:** [Hugging Face](https://huggingface.co/arun-gharami) · [Lead.AI Labs](https://huggingface.co/lead-ai-labs)
+</details>
 
 ---
 
-<sub>Profile reviewed October 4, 2026. Project repositories and their recorded artifacts provide the current implementation and evidence status.</sub>
+[Models and datasets](https://huggingface.co/arun-gharami) · [Lead.AI Labs](https://huggingface.co/lead-ai-labs) · [Portfolio](https://arungharami.info)
+
+<sub>Profile presentation updated October 6, 2026. Project status summarizes repository documentation; consult the source artifacts for current evidence.</sub>
